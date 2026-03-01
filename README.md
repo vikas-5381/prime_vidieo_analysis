@@ -24,3 +24,10 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 ---
 
 <h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
+
+- 1.Lack of Performance Visibility – Provides real-time tracking of key KPIs and overall business performance.
+- 2.
+- 3.
+- 4.
+- 5.
+
