@@ -28,6 +28,7 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 - 1.Lack of Performance Visibility – Provides real-time tracking of key KPIs and overall business performance.
 - 2.Difficulty in Identifying Trends – Visual charts help detect sales patterns, growth trends, and seasonal changes.
 - 3.Poor Decision-Making Due to Raw Data – Converts complex data into clear visual insights for faster decisions.
-- 4.
-- 5.
+- 4.Revenue & Profit Tracking Issues – Monitors revenue, profit margins, and cost performance efficiently.
+- 5.Inefficient Reporting Process – Automates reporting and reduces manual work with interactive filters and summaries.
 
+---
