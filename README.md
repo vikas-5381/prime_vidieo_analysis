@@ -22,3 +22,5 @@ It helps users monitor performance, track important trends, and make informed de
 The project focuses on analyzing data to uncover meaningful insights and trends that support bussiness decision making.It involves data cleaning,transformation and visualization through an interactive dashboard.The final output provides clear performance metrics and actionable insights for better strategic planning.
 
 ---
+
+<h2><a class="anchor" id="business-problem"></a>Business Problem</h2>
