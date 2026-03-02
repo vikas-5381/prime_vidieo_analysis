@@ -37,4 +37,7 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 
 - 1.The dataset contains structured records including key fields such as date, category, revenue/sales, and performance metrics.
 - 2.It includes multiple variables that help analyze trends, patterns, and business performance.
-- 
+- 3.The data may come from different sources and is cleaned and transformed before analysis.
+- 4.It is used to create visualizations and dashboards for generating actionable business insights.
+  
+---
