@@ -34,3 +34,7 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 ---
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
+
+- 1.The dataset contains structured records including key fields such as date, category, revenue/sales, and performance metrics.
+- 2.It includes multiple variables that help analyze trends, patterns, and business performance.
+- 
