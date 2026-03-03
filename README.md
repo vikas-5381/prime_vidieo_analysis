@@ -44,3 +44,9 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
+- Microsoft Excel
+- Pivot Tables
+- Charts & Graphs
+- GitHub
+
+---
