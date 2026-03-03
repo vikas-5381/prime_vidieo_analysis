@@ -41,3 +41,6 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 - 4.It is used to create visualizations and dashboards for generating actionable business insights.
   
 ---
+
+<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+
