@@ -65,3 +65,5 @@ vrinda-store-analysis/
 │   └── sales_store_dashboard.XLSX
 
 ```
+
+<h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
