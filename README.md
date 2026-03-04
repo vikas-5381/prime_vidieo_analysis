@@ -50,3 +50,6 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 - GitHub
 
 ---
+
+<h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
+
