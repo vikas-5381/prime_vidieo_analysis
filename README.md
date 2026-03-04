@@ -68,6 +68,5 @@ vrinda-store-analysis/
 
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
-
-
+1.Removed Missing & Null Values - Handled blank fields in columns like rating, director, and release year.
 
