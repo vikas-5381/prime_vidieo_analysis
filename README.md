@@ -53,3 +53,15 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 
 <h2><a class="anchor" id="project-structure"></a>Project Structure</h2>
 
+```
+vrinda-store-analysis/
+│
+├── README.md
+├── .gitignore
+├── requirements.txt
+├── Vrinda Store Reports.pdf
+│
+├── dashboard/                  # Excel Dashboard File
+│   └── sales_store_dashboard.XLSX
+
+```
