@@ -71,3 +71,8 @@ vrinda-store-analysis/
 1.Removed Missing & Null Values - Handled blank fields in columns like rating, director, and release year.
 2.Removed Duplicates – Eliminated duplicate movie/show records to ensure accurate analysis.
 3.Standardized Data Formats – Converted date columns (release year, added date) into proper date format and corrected text inconsistencies.
+4.Categorized Content Type – Separated Movies and TV Shows for better comparison and analysis.
+5.Handled Outliers – Checked unusual values in duration, ratings, or year to maintain data accuracy.
+6.Created New Columns – Extracted features like release year, genre count, or content age for deeper insights.
+
+```
