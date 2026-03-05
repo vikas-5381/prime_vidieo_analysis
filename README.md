@@ -69,4 +69,5 @@ vrinda-store-analysis/
 <h2><a class="anchor" id="data-cleaning--preparation"></a>Data Cleaning & Preparation</h2>
 
 1.Removed Missing & Null Values - Handled blank fields in columns like rating, director, and release year.
-
+2.Removed Duplicates – Eliminated duplicate movie/show records to ensure accurate analysis.
+3.Standardized Data Formats – Converted date columns (release year, added date) into proper date format and corrected text inconsistencies.
