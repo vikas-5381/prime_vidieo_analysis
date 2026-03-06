@@ -83,3 +83,4 @@ vrinda-store-analysis/
 2.Genre Analysis – Identified the most common and popular genres in the dataset.
 3.Release Year Trend – Examined how content production has changed over different years.
 4.Rating Analysis – Studied the distribution of content ratings such as PG, PG-13, R, etc.
+5.Country-wise Content Analysis – Analyzed which countries produce the most content available on the platform.
