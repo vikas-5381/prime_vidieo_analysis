@@ -80,3 +80,6 @@ vrinda-store-analysis/
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 1.Content Distribution Analysis – Analyzed the number of movies and TV shows available on the platform.
+2.Genre Analysis – Identified the most common and popular genres in the dataset.
+3.Release Year Trend – Examined how content production has changed over different years.
+4.Rating Analysis – Studied the distribution of content ratings such as PG, PG-13, R, etc.
