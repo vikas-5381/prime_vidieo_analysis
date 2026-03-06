@@ -76,3 +76,7 @@ vrinda-store-analysis/
 6.Created New Columns – Extracted features like release year, genre count, or content age for deeper insights.
 
 ```
+
+<h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
+
+1.Content Distribution Analysis – Analyzed the number of movies and TV shows available on the platform.
