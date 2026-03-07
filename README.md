@@ -44,8 +44,8 @@ The project focuses on analyzing data to uncover meaningful insights and trends 
 
 <h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
 
-- Microsoft Excel
-- Pivot Tables
+- Power Bi 
+- Dax Function
 - Charts & Graphs
 - GitHub
 
@@ -59,10 +59,10 @@ vrinda-store-analysis/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── Vrinda Store Reports.pdf
+├── Prime Vidieo Analysis.pdf
 │
-├── dashboard/                  # Excel Dashboard File
-│   └── sales_store_dashboard.XLSX
+├── dashboard/                  # POWER BI File
+│   └── sales_store_dashboard.pbi
 
 ```
 
@@ -84,3 +84,20 @@ vrinda-store-analysis/
 3.Release Year Trend – Examined how content production has changed over different years.
 4.Rating Analysis – Studied the distribution of content ratings such as PG, PG-13, R, etc.
 5.Country-wise Content Analysis – Analyzed which countries produce the most content available on the platform.
+
+```
+
+<h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
+
+1.Which type of content is more available on the platform?
+Insight: Movies are more common than TV shows in the dataset.
+2.Which genre has the highest number of titles?
+Insight: Drama and Comedy are among the most popular genres.
+3.How has content production changed over the years?
+Insight: The number of titles released has increased significantly in recent years.
+4.Which countries produce the most content?
+Insight: The United States contributes the highest number of titles.
+5.What are the most common content ratings?
+Insight: Ratings like 13+ and 16+ appear most frequently in the dataset.
+
+```
