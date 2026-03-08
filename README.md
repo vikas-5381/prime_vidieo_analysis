@@ -105,3 +105,15 @@ Insight: The United States contributes the highest number of titles.
 Insight: Ratings like 13+ and 16+ appear most frequently in the dataset.
 
 ```
+
+<h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
+
+Power BI Dashboard Shows:
+1.Total Number of Movies and TV Shows
+2.Content Distribution by Gender
+3.Release Year Trends
+4.Country-wise Content Production
+5.Content Ratings Distribution
+6.Type of Content Comparison
+
+```
