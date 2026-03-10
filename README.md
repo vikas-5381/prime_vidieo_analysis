@@ -80,14 +80,14 @@ vrinda-store-analysis/
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
 **Negative or Zero Values Detected:**
-1.Some records contained zero or missing values in columns like duration or rating.
-2.These values were checked and corrected or removed to maintain data accuracy.
+- Some records contained zero or missing values in columns like duration or rating.
+- These values were checked and corrected or removed to maintain data accuracy.
 **Outliers Identified:**
-1.A few records had unusually high or low values compared to the overall dataset.
-2.These outliers were analyzed to ensure they did not affect the overall insights.
+- A few records had unusually high or low values compared to the overall dataset.
+- These outliers were analyzed to ensure they did not affect the overall insights.
 **Correlation Analysis:**
-1.Relationships between variables such as release year and number of titles were examined.
-2.The analysis helped identify patterns and trends within the dataset.
+- Relationships between variables such as release year and number of titles were examined.
+- The analysis helped identify patterns and trends within the dataset.
 
 ```
 
@@ -109,12 +109,12 @@ Insight: Ratings like 13+ and 16+ appear most frequently in the dataset.
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 Power BI Dashboard Shows:
-1.Total Number of Movies and TV Shows
-2.Content Distribution by Gender
-3.Release Year Trends
-4.Country-wise Content Production
-5.Content Ratings Distribution
-6.Type of Content Comparison
+- Total Number of Movies and TV Shows
+- Content Distribution by Gender
+- Release Year Trends
+- Country-wise Content Production
+- Content Ratings Distribution
+- Type of Content Comparison
 
 ```
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
@@ -137,3 +137,9 @@ power bi scripts/get_vidieo_summary.xlsx
 ```
 
 ---
+
+<h2><a class="anchor" id="final-recommendations"></a>Final Recommendations</h2>
+
+- Focus on producing more content in popular genres like Drama and Comedy to attract a larger audience.
+- Increase regional and international content to expand the global audience base.
+- Regularly update the platform with new movies and TV shows to maintain user engagement.
