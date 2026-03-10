@@ -143,3 +143,5 @@ power bi scripts/get_vidieo_summary.xlsx
 - Focus on producing more content in popular genres like Drama and Comedy to attract a larger audience.
 - Increase regional and international content to expand the global audience base.
 - Regularly update the platform with new movies and TV shows to maintain user engagement.
+- Use data insights to understand viewer preferences and improve content strategy.
+- Monitor content ratings and trends to provide suitable recommendations for different audience groups.
