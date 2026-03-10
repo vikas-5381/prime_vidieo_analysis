@@ -145,3 +145,12 @@ power bi scripts/get_vidieo_summary.xlsx
 - Regularly update the platform with new movies and TV shows to maintain user engagement.
 - Use data insights to understand viewer preferences and improve content strategy.
 - Monitor content ratings and trends to provide suitable recommendations for different audience groups.
+
+---
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Vikas Siddheshware**  
+Data Analyst       
+📧 Email: vikassiddheshware2001@gmail.com  
+🔗 [LinkedIn](www.linkedin.com/in/vikas-siddheshware) 
