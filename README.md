@@ -75,7 +75,6 @@ vrinda-store-analysis/
 5.Handled Outliers – Checked unusual values in duration, ratings, or year to maintain data accuracy.
 6.Created New Columns – Extracted features like release year, genre count, or content age for deeper insights.
 
-```
 
 <h2><a class="anchor" id="exploratory-data-analysis-eda"></a>Exploratory Data Analysis (EDA)</h2>
 
@@ -89,7 +88,6 @@ vrinda-store-analysis/
 - Relationships between variables such as release year and number of titles were examined.
 - The analysis helped identify patterns and trends within the dataset.
 
-```
 
 <h2><a class="anchor" id="research-questions--key-findings"></a>Research Questions & Key Findings</h2>
 
@@ -104,7 +102,6 @@ Insight: The United States contributes the highest number of titles.
 5.What are the most common content ratings?
 Insight: Ratings like 13+ and 16+ appear most frequently in the dataset.
 
-```
 
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
@@ -116,7 +113,6 @@ Power BI Dashboard Shows:
 - Content Ratings Distribution
 - Type of Content Comparison
 
-```
 <h2><a class="anchor" id="how-to-run-this-project"></a>How to Run This Project</h2>
 
 1. Clone the repository:
